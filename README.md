@@ -1,12 +1,13 @@
 # Tech Stack: 💻
 
 ### 🚀 Backend & API Разработка
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![Python](https://shields.io) ![FastAPI](https://shields.io) ![Pydantic](https://shields.io)
 
 ### ⚙️ DevOps & Инфраструктура
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![Docker](https://shields.io) ![Nginx](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
 
 ### 🧠 Базы данных & MLOps (ИИ-инфраструктура)
-<img src="https://shields.io" /> <img src="https://shields.io" /> <img src="https://shields.io" />
+![PostgreSQL](https://shields.io) ![SQLAlchemy](https://shields.io) ![OpenAI](https://shields.io)
 
-* Telegram: @isnzzb
+# How to reach me: 📞
+* Telegram: [@lsnzzb](https://t.me)
