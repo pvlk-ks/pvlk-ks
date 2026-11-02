@@ -9,5 +9,4 @@
 ### 🧠 Базы данных & MLOps (ИИ-инфраструктура)
 ![PostgreSQL](https://shields.io) ![SQLAlchemy](https://shields.io) ![OpenAI](https://shields.io)
 
-# How to reach me: 📞
 * Telegram: [@lsnzzb](https://t.me)
