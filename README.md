@@ -5,7 +5,7 @@
 
 # Tech Stack: 💻
 ### 🚀 Backend & Core Development
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-377GAB?style=for-the-badge&logoColor=white) ![HTTPX](https://img.shields.io/badge/HTTPX-000000?style=for-the-badge&logoColor=cyan)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Asyncio](https://img.shields.io/badge/Asyncio-377GAB?style=for-the-badge&logoColor=white) ![HTTPX](https://img.shields.io/badge/HTTPX-000000?style=for-the-badge&logoColor=cyan)
 ### 💾 Databases & ORM
 ![SQL](https://img.shields.io/badge/SQL-CC292B?style=for-the-badge&logo=databricks&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![PGVector](https://img.shields.io/badge/PGVector-336791?style=for-the-badge&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) 
 ### ⚙️ DevOps & System Engineering
